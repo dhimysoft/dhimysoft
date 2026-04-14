@@ -42,4 +42,4 @@ Personal portfolio showcasing projects, skills, and experience.
 - 🌐 Portfolio: [dhimsoft.com](https://www.dhimsoft.com)  
 - 💼 LinkedIn: [linkedin.com/in/dhimy-jean](https://www.linkedin.com/in/dhimy-jean)  
 - 🐙 GitHub: [github.com/dhimsoft](https://github.com/dhimsoft)  
-- 📧 Email: dhimyjean@dhimsoft.com  
+

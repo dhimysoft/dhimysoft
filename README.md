@@ -1,45 +1,137 @@
-# Dhimy Jean  
-**CS Student | Python & SQL Developer | Data & AI Projects | Founder of Dhimsoft**  
+# Hi, I'm Dhimy Jean 👋
+
+### AI Systems Engineer | Founder, DHIMIX AI | Computer Science Student @ BMCC (CUNY)
+
+I build explainable AI systems, intelligent recommendation platforms, data-driven applications, and modern web experiences.
+
+My work focuses on turning artificial intelligence into practical tools that help people make better decisions through transparency, personalization, and human-centered design.
 
 ---
 
-## 🚀 About Me  
-I am a Computer Science student at BMCC (CUNY) and founder of **Dhimsoft**, where I build data-driven dashboards, automation tools, and AI-powered applications.  
-With hands-on experience in Python, SQL, and modern web frameworks, I create solutions that transform raw data into actionable insights.  
+## 🚀 Current Focus
+
+* Building **DHIMIX AI**, an AI-native music intelligence platform
+* Explainable AI (XAI)
+* Retrieval-Augmented Generation (RAG)
+* Recommendation Systems
+* AI Engineering
+* Python & Data Analytics
+* Full-Stack Web Development
 
 ---
 
-## 🌟 Core Skills  
-- **Programming & Data**: Python, SQL, Pandas, NumPy, Matplotlib, Jupyter  
-- **Web Development**: Next.js, React, Tailwind CSS, FastAPI, Streamlit  
-- **Data & Cloud**: Docker, AWS, SQLite, Git/GitHub  
-- **Languages**: English, French, Spanish  
+## 🎵 Featured Project: DHIMIX AI
+
+**DHIMIX AI** is an AI-native music intelligence platform designed around a simple belief:
+
+> AI recommendations should explain themselves.
+
+Key Features:
+
+* Confidence Scoring
+* Mood Alignment Analysis
+* Energy Matching
+* Genre Reasoning
+* Explainable Recommendation Logic
+* Persistent Music DNA Personalization
+* Cloud Music Catalog Integration
+* AI-Powered Music Discovery
+
+### Live Platform
+
+https://dhimix-ai.vercel.app
+
+### Repository
+
+https://github.com/dhimysoft/dhimix-ai
 
 ---
 
-## 📂 Featured Projects  
-🔹 **Budget Dashboard – Python + Streamlit + SQL**  
-Real-time expense tracking, category insights, and budget reports.  
-🔗 [View on GitHub](https://github.com/dhimsoft/budget_dashboard)  
+## 🏆 Programs & Recognition
 
-🔹 **MTA Data Analysis – Python + Pandas + Matplotlib**  
-Analyzed NYC MTA bus delays & breakdowns, with clear data visualizations.  
-🔗 [View on GitHub](https://github.com/dhimsoft/mta-data-analysis)  
+### CodePath Foundations of AI Engineering (Honors)
 
-🔹 **Dhimsoft Portfolio Website – Next.js + Tailwind CSS**  
-Personal portfolio showcasing projects, skills, and experience.  
-🔗 [Live Demo](https://www.dhimsoft.com) | [View on GitHub](https://github.com/dhimsoft/dhimsoft-portfolio)  
+Completed with Honors while developing the original DHIMIX AI capstone project.
+
+### CodePath Technical Interview Prep
+
+Strengthening algorithms, data structures, and software engineering interview skills.
+
+### NYC Tech Talent Pipeline Residency
+
+Selected for BMCC's NYC Tech Talent Pipeline Residency Program, focused on software development, professional development, technical training, and internship preparation.
+
+### BMCC Computer Science
+
+Computer Science student at the Borough of Manhattan Community College (CUNY).
 
 ---
 
-## 📊 GitHub Stats  
-![Dhimy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=dhimsoft&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhimsoft&layout=compact&theme=tokyonight)  
+## 💻 Technical Skills
+
+### Languages
+
+* Python
+* SQL
+* JavaScript
+* TypeScript
+* HTML
+* CSS
+
+### Frameworks & Tools
+
+* Next.js
+* React
+* Tailwind CSS
+* FastAPI
+* Streamlit
+* Pandas
+* NumPy
+* Git
+* GitHub
+
+### AI & Data
+
+* Explainable AI
+* Retrieval Systems
+* Recommendation Engines
+* Data Analytics
+* Data Visualization
+* SQLite
+* Machine Learning Fundamentals
 
 ---
 
-## 🌍 Connect with Me  
-- 🌐 Portfolio: [dhimsoft.com](https://www.dhimsoft.com)  
-- 💼 LinkedIn: [linkedin.com/in/dhimy-jean](https://www.linkedin.com/in/dhimy-jean)  
-- 🐙 GitHub: [github.com/dhimsoft](https://github.com/dhimsoft)  
+## 📂 Additional Projects
 
+### MTA Bus Delay Analysis
+
+Python-based analysis of NYC MTA bus breakdowns and delays using Pandas and Matplotlib.
+
+### Budget Dashboard
+
+Interactive financial dashboard built with Python, Streamlit, and SQLite.
+
+### Educational Web Platforms
+
+Modern responsive educational website prototypes built with Next.js and Tailwind CSS.
+
+---
+
+## 🌎 Connect With Me
+
+### LinkedIn
+
+https://www.linkedin.com/in/dhimy-jean
+
+### DHIMIX AI
+
+https://dhimix-ai.vercel.app
+
+### GitHub
+
+https://github.com/dhimysoft
+
+---
+
+> Built with curiosity. Engineered with purpose.

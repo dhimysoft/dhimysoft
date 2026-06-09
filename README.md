@@ -1,6 +1,6 @@
 # Hi, I'm Dhimy Jean 👋
 
-### AI Systems Engineer | Founder, DHIMIX AI | Computer Science Student @ BMCC (CUNY)
+### AI Systems Engineer | Founder, DHIMIX AI | Computer Science Graduate @ BMCC (CUNY)
 
 I build explainable AI systems, intelligent recommendation platforms, data-driven applications, and modern web experiences.
 
